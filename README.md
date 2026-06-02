@@ -1,4 +1,4 @@
-# 💈 Senra Barber - Site Oficial 
+# 💈 Senra Barber - Site Oficial
 
 Este é o repositório do site oficial da **Senra Barber**, totalmente otimizado para dispositivos móveis (*Mobile-First*) e focado na conversão de novos clientes e agendamentos autônomos.
 
@@ -23,19 +23,4 @@ Caso queira alterar as fotos do Antes/Depois ou da Estrutura:
 2. No arquivo `index.html`, localize as tags `<img>` e atualize o atributo `src=""` com o nome do novo arquivo de imagem.
 
 ---
-Desenvolvido para a **Senra Barber** ✂️## Hi there 👋
-
-<!--
-**senrabarber/senrabarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvido para a **Senra Barber** ✂️
