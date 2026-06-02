@@ -1,4 +1,4 @@
-# 💈 Senra Barber - Site Oficial
+# 💈 Senra Barber - Site Oficial 
 
 Este é o repositório do site oficial da **Senra Barber**, totalmente otimizado para dispositivos móveis (*Mobile-First*) e focado na conversão de novos clientes e agendamentos autônomos.
 
